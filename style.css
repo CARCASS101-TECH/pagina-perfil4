@@ -1,0 +1,14 @@
+body{
+    color: #ffffff;
+    background-color: rgb(0, 0, 0);
+    font-family: arial;
+    font-size: 24px;
+    text-align: center;
+
+}
+img{
+    width: 280px;
+    height: 280px;
+    object-fit: cover;
+    border-radius: 50%;
+}
